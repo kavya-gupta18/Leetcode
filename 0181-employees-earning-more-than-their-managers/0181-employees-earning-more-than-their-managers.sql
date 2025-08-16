@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-# Write your MySQL query statement below
 
 select e1.name as Employee
 from employee e1 join employee e2
